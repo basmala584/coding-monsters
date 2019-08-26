@@ -1,0 +1,286 @@
+#page-top{
+    background-image: url("../images/kk.jpg")
+}
+.mx-auto-my-0-text-uppercase{
+color: azure;
+}
+.text-white-50-mx-auto-mt-2-mb-5{
+    color: azure;
+}
+.container-fluid{
+    color: darkslateblue;
+}
+.mx-auto-my-0-text-uppercase{
+    font-size: 500%;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+.text-white-50-mx-auto-mt-2-mb-5{
+    font-size: 200%;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.carousel-inner{
+    height: 20%;
+    width: 20%;
+}
+.img-fluid{
+    height: 400px;
+    width: 300px;
+    color: rgb(247, 247, 247);
+    background-color: azure;
+}
+.row-align-items-center-no-gutters-mb-4-mb-lg-5{
+    height: 300px;
+    width: 500px;
+    color:azure;
+    background-color: azure;
+}
+#b{
+    color: black;
+}
+.text-black-50-mb-0{
+color: black
+}
+.text-white{
+    color: black;
+}
+.project-text-w-100-my-auto-text-center-text-lg-left{
+    background-color: azure;
+}
+.col-lg-6{
+    height: 300px;
+    width: 300px;
+    color:azure;
+    background-color: azure;
+}
+.mb-0-text-white-50{
+    color: black;
+}
+.row-justify-content-center-no-gutters-mb-5-mb-lg-0{
+    height: 300px;
+    width: 500px;
+}
+.row-align-items-center-no-gutters-mb-4-mb-lg-5{
+    background-color: azure
+}
+#mainNav {
+    min-height: 56px;
+    background-color: #fff;
+}
+.fixed-top {
+    position: fixed;
+    top: 0;
+    right: 0;
+    left: 0;
+    z-index: 1030;
+}
+body {
+    font-family: Nunito;
+    letter-spacing: .0625em;
+}
+.container {
+        max-width: 720px;
+}
+
+
+
+
+
+a {
+  color: #64a19d;
+}
+
+
+a{
+color: #007bff;
+text-decoration: none;
+background-color: transparent;
+}
+
+.jumbotron-text-center{
+background-color: #fff;
+
+
+}
+#about{
+    background-color: azure;
+    width: 500px;
+}
+
+.bs{
+    width: 50%;
+    height: 500%;
+}
+
+#contact{
+    background-color: whitesmoke
+}
+.ww{
+    width: 200px;
+    height: 200px;
+}
+.ff{
+    width: 200px;
+    height: 200px;
+    background-color: #fff;
+    margin: 50px;
+}
+.vv{
+    width: 200px;
+    height: 200px;
+    margin: 500px;
+
+
+
+
+}
+.b{
+    color: white;
+}
+
+
+
+
+/* Dates */
+.agenda .agenda-date { width: 170px; }
+.agenda .agenda-date .dayofmonth {
+  width: 40px;
+  font-size: 36px;
+  line-height: 36px;
+  float: left;
+  text-align: right;
+  margin-right: 10px;
+}
+.agenda .agenda-date .shortdate {
+  font-size: 0.75em;
+}
+
+
+
+
+#myCarousel{
+    width: 1300px;
+    height: 450px;
+    margin: auto;
+   
+}
+.carousel-inner{
+    width: 1300px;
+    height: 450px;
+    
+}
+
+.item{
+    width: 1300px;
+    height: 450px;
+}
+.clearfix {
+    display: block;
+}
+.wST{
+    position: relative;
+
+    width: 940px;
+    display: block;
+    font-size: 1.17em;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    font-weight: bold;
+    color: #fff;
+    text-align: justify
+}
+
+
+#right-column-content {
+    padding: 0px 24px 0px 20px;
+    background-color: rgba(163, 163, 163, 0.342);
+}
+
+div {
+    display: block;
+}
+.oneColFixCtrHdr #container {
+    width: 966px;
+    margin: 0 auto;
+    text-align: left;}
+.agenda-date {
+  color: black;
+  font-size: 20px;
+}
+.shortdate {
+  color: black;
+  font-size: 20px;
+}
+.agenda-events{
+  color: black;
+  font-size: 20px;
+}
+.agenda{
+  background-color:rgba(255, 255, 255, 0.767);
+  font-size: 20px;
+}
+.apps{
+  background-color:  rgba(163, 163, 163, 0.500);
+  color: white;
+}
+.form{
+  background-color:rgba(255, 255, 255, 0.699);
+  color: black;
+  font-size: 30px;
+  text-align: center
+}
+.b {
+
+  color: rgb(5, 4, 4);
+}
+.c{
+    color:white;
+}
+.oo{
+  font-size: 20px;
+  margin: 40px;
+  padding: 10px;
+}
+.ee{
+  background-color:  rgba(163, 163, 163, 0.500);
+  color: white;
+  margin: 5px;
+  font-size: 30px
+}
+
+.zz{
+  font-size: 20px;
+  color: white;
+}
+#facts{
+  margin: 20px;
+  padding: 20px;
+  font-size: 15px;
+}
+.form-group{
+  background-color: rgba(255, 255, 255, 0.808)
+}
+.new{
+  background-color: white;
+  margin: 10px;
+}
+.contain{
+    margin: 10px;
+    
+}  
+#about{
+    background-color:  rgba(212, 211, 211, 0.747);
+    color: rgb(8, 8, 8);
+    text-align: center;
+    padding: 5px;
+    margin-left: 400px;
+
+}
+.aa{
+    background-color: rgba(255, 255, 255, 0.774);
+    color: black;
+}
+.rl{
+    padding: 20px;
+    background-color: rgba(255, 255, 255, 0.555);
+    margin: 5px;
+}
